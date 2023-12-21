@@ -1,4 +1,4 @@
-# SchoolIsTrush
+# SchoolIsTrash
 
 ### I hope this project helps you get around the limitations of school computers.
 
