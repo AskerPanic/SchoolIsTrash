@@ -30,7 +30,11 @@ https "***strongly encrypts***" all traffic, making it **impossible for hackers 
 
 ---
 
+But we're going to unlock a website now. The school **is not a hacker and it has no ill intentions toward you**.  
 
+Although https can **strongly encrypt your traffic**, the router can still ***view the URLs you visit***.  
+
+When you try to access a website (such as `chat.openai.com`), the router will ***find that it is a blocked website***, and then ***reject and cut off your connection***.
 
 ---
 
