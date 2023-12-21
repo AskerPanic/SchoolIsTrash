@@ -4,6 +4,8 @@
 
 ### The school network blocks the website you need ？
 
+---
+
 #### 1. Use a proxy to access the website.
 
 How do school firewalls work?  
@@ -15,3 +17,5 @@ http is the worst, it will ***expose your "clear text traffic (that is, what you
 When you enter your **password or bank card** on an **http** website, ***hackers and routers can also know it***.  
 
 This is the reason **why "you cannot connect to a public wifi at will"**.
+
+---
