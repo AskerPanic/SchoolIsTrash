@@ -8,7 +8,9 @@
 
 #### 1. Use a proxy to access the website.
 
-How do school firewalls work?  
+---
+
+***How do school firewalls work?***  
 
 When you visit a website, you usually use http or https.  
 
@@ -16,6 +18,20 @@ http is the worst, it will ***expose your "clear text traffic (that is, what you
 
 When you enter your **password or bank card** on an **http** website, ***hackers and routers can also know it***.  
 
-This is the reason **why "you cannot connect to a public wifi at will"**.
+This is the reason **why "you cannot connect to a public wifi at will"**.  
 
 ---
+
+However, **https can circumvent the "insecurity of http"**.  
+
+https "***strongly encrypts***" all traffic, making it **impossible for hackers and routers to know your traffic**.  
+
+(A digression: Try to **use https to access the website**. For this, we can ***turn on the "https-only" mode*** of the browser)
+
+---
+
+
+
+---
+
+******  
